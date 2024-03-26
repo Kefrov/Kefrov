@@ -1,3 +1,4 @@
 - I’m Fares from Tunisia
-- I only know python thanks to school but my problem solving skills are decent
+- I'm a student at ISAMM
+- Passionate about competitive programming
 - Kefrov#1821 on Discord
