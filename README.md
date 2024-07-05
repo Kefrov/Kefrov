@@ -1,4 +1,4 @@
 - I’m Fares Manai from Tunisia
 - I'm a student at ISAMM
 - Passionate about Competitive programming
-- Kefrov#1821 on Discord
+- kefrov on Discord
