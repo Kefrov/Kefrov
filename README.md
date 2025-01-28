@@ -19,4 +19,4 @@ I'm a **student** at ISAMM with a deep passion for **competitive programming** a
 
 ### 📫 How to Reach Me
 - [**Email**](mailto:fares.manai123@gmail.com)
-- [**LinkedIn**](www.linkedin.com/in/kefrov)
+- [**LinkedIn**](https://www.linkedin.com/in/kefrov/)
