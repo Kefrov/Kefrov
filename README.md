@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Fares Manai! 
 
 ### 🎓 About Me
-I'm a **student** at ISAMM with a deep passion for **competitive programming** and **mathematics**.
+- **Student** at ISAMM
+- Passionate about **PS** and **Maths**
 
 ### 💻 Languages & Tools
 - **Programming Languages**: 
