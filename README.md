@@ -8,9 +8,9 @@
 - **Programming Languages**: 
   - 🐍 Python
   - 💻 C/C++
+  - ☕️ Java
 - **Databases**: 
-  - ☕ Oracle
-  - 📊 SQL and PL/SQL
+  - 📊 Oracle
 
 ### 🏆 Competitive Programming
 - 🥇 **Expert** on Codeforces: [Kefrov](https://codeforces.com/profile/Kefrov)
