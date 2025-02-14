@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fares Manai! 
+# 👋 Hi, I'm Fares! 
 
 ### 🎓 About Me
 - **Student** at ISAMM
