@@ -1,23 +1,10 @@
-# 👋 Hi, I'm Fares! 
+## 😗 Hey, I'm Fares!  
 
-### 🎓 About Me
-- **Student** at ISAMM
-- Passionate about **PS** and **Maths**
+- 🎓 Student at ISAMM
+- 🌟 [Expert](https://codeforces.com/profile/Kefrov) on Codeforces
+- 📚 Passionate about **PS** & **Maths**
 
-### 💻 Languages & Tools
-- **Programming Languages**: 
-  - 🐍 Python
-  - 💻 C/C++
-  - ☕️ Java
-- **Databases**: 
-  - 📊 Oracle
+🎥 [ISAMM PS Club](https://www.youtube.com/watch?v=myNxDuVxFw0&t=916s) – Educational Content  
 
-### 🏆 Competitive Programming
-- 🥇 **Expert** on Codeforces: [Kefrov](https://codeforces.com/profile/Kefrov)
-- 🏅 Ranked 23rd in **TCPC 2024**
-- 🎥 Founder of the **ISAMM PS Club** [YouTube channel](https://www.youtube.com/@ISAMMPS), where I produce educational content
-  - Featured video: [Binary Search Explained](https://www.youtube.com/watch?v=myNxDuVxFw0&t=911s)
-
-### 📫 How to Reach Me
-- [**Email**](mailto:fares.manai123@gmail.com)
-- [**LinkedIn**](https://www.linkedin.com/in/kefrov/)
+---
+📫 [Email](mailto:fares.manai123@gmail.com)
