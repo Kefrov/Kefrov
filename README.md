@@ -1,4 +1,4 @@
-## 😗 Hey, I'm Fares!  
+### 😗 Hey, I'm Fares!  
 
 - 🎓 Student at ISAMM
 - 📚 Passionate about **PS** & **Maths**
